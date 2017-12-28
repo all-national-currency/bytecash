@@ -1,5 +1,5 @@
-## Building BYTECash (BYCE) | All National Decentralized Currency
-(Protocol: CryptoNote, Algorithm: CryptoNight)
+## Building - BYTECash (BYCE) | All National Decentralized Currency
+(Protocol: CryptoNote, Algorithm: Proof-of-work, CryptoNight)
 
 ### On *nix
 
